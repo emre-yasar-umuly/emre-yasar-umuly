@@ -1,7 +1,7 @@
 Hi 👋 My name is Emre
 =====================
 
-A software developer from Turkey
+A software developer at Turkey
 --------------------------------
 
 My curiosity to the computers has never ended since I was child. As a result of my interest to technology, I have developed myself in many areas of information technologies and I have been improving it. I want to pursue a career in one of Programmer, Web Developer and Graphic Designer who are between my future goals. My area of interest is generally on program development, but the technologies I have been interested in recently are; Artificial Intelligence and especially Python and Blender.
